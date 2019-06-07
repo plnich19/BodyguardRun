@@ -5,3 +5,4 @@ The script is written in C# language. You can open it by using Microsoft Visual 
 1. Camera Motor script is a camera script. The camera will always follow the player.
 2. Coin Collector script is about detection on coin when the player collects the coin. It will be gone and score will be increase by 10.
 3. Coin Control script is used for rotating gold coins only.
+4. Death Menu script (shows "game over" or "you won").
